@@ -1,0 +1,22 @@
+#titulo{
+    background-color:#1D1E40 ;
+    border:2px solid black;
+color:white;
+text-align: center;
+height:50px;
+
+}
+#html{
+    border: 3px solid black;
+    border-radius:20px;
+   padding: 3px;
+   width:300px;
+   height: 250px;
+}
+#java{
+    border: 3px solid black;
+    border-radius:20px;
+   padding: 3px;
+   width:300px;
+   height: 250px;
+}
